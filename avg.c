@@ -1,8 +1,10 @@
 #include<stdio.h>
-#include<cs50.h>
+//#include<cs50.h>
 void asd(int copy[]);
 void asd_plus(int copt[]);
 
+void he(){
+    printf("yuyao");    
 int main(void){
      int y=0;
      int copy[5];
@@ -36,6 +38,6 @@ void asd_plus(int copt[]){
             jk=copt[j];
         }
     }
-    printf("max is %d \n",jk);/
+    printf("max is %d \n",jk);
 
 }
