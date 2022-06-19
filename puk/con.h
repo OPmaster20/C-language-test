@@ -1,0 +1,1 @@
+void init(char x[3][3]);
